@@ -1,5 +1,5 @@
 <?php
 
-    include('models/inbox.model.php');
+    include('models/inbox.admin.model.php');
 
-    include('views/inbox.view.php');
+    include('views/inbox.admin.view.php');
