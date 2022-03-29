@@ -69,7 +69,7 @@
                         </li>
                     </a>
 
-                    <a href='inbox.php'>
+                    <a href='inbox.admin.php'>
                         <li class='flex px-4 py-1 gap-2 rounded hover:bg-indigo-500 hover:cursor-pointer'>
                             <img class='w-5 h-5' src='assets/inbox.svg'>
                             <span class='text-indigo-100'>Inbox</span>
